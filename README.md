@@ -12,7 +12,10 @@ LinkedIn: [Felipe Martins](https://linkedin.com/in/eufmartins)
 
 1. Clone o repositório:
    
-git clone https://github.com/eufmartins/docker-simple-webserver.git cd docker-simple-webserver
+```
+git clone https://github.com/eufmartins/docker-simple-webserver.git 
+cd docker-simple-webserver
+```
 
 2. Rode o container com Docker Compose:
 
@@ -21,7 +24,6 @@ docker compose up --build
 3. Acesse no navegador:
    
 http://localhost:8080
-
 
 ## Tecnologias usadas
 
